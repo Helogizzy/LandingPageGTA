@@ -1,4 +1,4 @@
-# O Projeto GTA
+# Projeto GTA
 
 Consiste em uma página web inspirada na página oficial do jogo GTA. 
 
