@@ -6,4 +6,5 @@ Consiste em uma página web inspirada na página oficial do jogo GTA.
 
 ## Layout
 
-![Landing Page GTA](./src/imagens/Landing Page GTA .png)
+![LandingPageGTA](./src/imagens/LandingPageGTA.png)
+
