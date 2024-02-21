@@ -6,4 +6,4 @@ Consiste em uma página web inspirada na página oficial do jogo GTA.
 
 ## Layout
 
-[LandingPageGTA](https://helogizzy.github.io/LandingPageGTA.png/)
+[LandingPageGTA](https://helogizzy.github.io/LandingPageGTA/)
